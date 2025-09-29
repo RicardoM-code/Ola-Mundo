@@ -3,4 +3,4 @@ Primeiro repositorio Git
 
 Repositório teste.
 
-Alteirei o README no Site!
+Alterei o README no Site!
